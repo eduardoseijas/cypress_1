@@ -1,0 +1,14 @@
+{
+  "name": "curso_git",
+  "version": "1.0.0",
+  "description": "Curso Cypress Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Seijas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
